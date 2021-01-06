@@ -10,6 +10,8 @@
     "proxy": "netlify-cms-proxy-server"
   },
   "dependencies": {
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
     "@narative/gatsby-theme-novela": "^0.*",
     "gatsby": "^2.13.41",
     "gatsby-plugin-manifest": "^2.2.4",
